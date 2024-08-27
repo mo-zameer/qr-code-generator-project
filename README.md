@@ -6,3 +6,5 @@ https://www.npmjs.com/package/qr-code-generator-by-zameer
 To use this package in your project, simply paste the following command in your command-line and you are good to go.
 
 npm i qr-code-generator-by-zameer
+
+![image](https://github.com/user-attachments/assets/0c7fb5e3-f719-4463-aac6-3ec6e995a997)
