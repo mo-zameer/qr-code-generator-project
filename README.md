@@ -1,10 +1,4 @@
 # qr-code-project
-qr-code is a versatile Node.js package that enables you to generate QR codes with ease. It provides a simple API for creating QR codes that can encode various types of data, including text, URLs, email addresses, phone numbers, and more.
+qr-code is a versatile Node.js package that enables you to generate QR codes with ease. 
 
-https://www.npmjs.com/package/qr-code-generator-by-zameer
-
-To use this package in your project, simply paste the following command in your command-line and you are good to go.
-
-npm i qr-code-generator-by-zameer
-
-![image](https://github.com/user-attachments/assets/0c7fb5e3-f719-4463-aac6-3ec6e995a997)
+This project is a web application that allows users to generate QR codes for various types of data, such as text, URLs, email addresses, phone numbers, and more. The QR codes can then be scanned using a smartphone or other compatible device to access the encoded information.
